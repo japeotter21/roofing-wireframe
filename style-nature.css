@@ -1,0 +1,40 @@
+.header
+{
+  background-color: #02752e50;
+}
+
+
+.header a {
+  color: black;
+}
+
+.header a:hover {
+  background-color: #147a3b7e;
+  color: black;
+}
+
+.header a.active {
+  background-color: rgba(206, 129, 40, 0.671);
+  color: white;
+}
+
+body
+{
+  background-color: rgba(165, 158, 123, 0.2);
+}
+
+.price-tool div
+{
+  background-color: rgba(66, 206, 152, 0.096);
+  border-color: rgba(206, 129, 40, 0.5);
+}
+
+.article
+{
+  border-color: rgba(206, 129, 40, 0.5);
+}
+
+.price-tool p:hover
+{
+  background-color: rgba(235, 201, 137, 0.425);
+}
